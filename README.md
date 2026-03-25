@@ -430,7 +430,7 @@
       </div>
 
       <div class="diag-box">
-        <p><strong>Status do sistema:</strong> <span class="ok">FUNCIONANDO</span></p>
+        <p><strong>Status do sistema:</strong> <span class="erro">FUNCIONANDO</span></p>
         <p><strong>Display:</strong> <span class="ok">OK</span></p>
         <p><strong>Backlight:</strong> <span class="ok">OK</span></p>
         <p><strong>Leitura de RPM:</strong> <span class="ok">OK</span></p>
