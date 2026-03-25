@@ -441,7 +441,7 @@
 
       <div class="rodape-botoes">
         <button class="botao" onclick="mostrarTela(4)">Voltar</button>
-        <button class="botao" onclick="mostrarTela(1)">Voltar ao Início</button>
+        <button class="botao" onclick="mostrarTela(1)">Voltar ao Inicio</button>
       </div>
     </div>
   </div>
