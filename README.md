@@ -430,12 +430,12 @@
       </div>
 
       <div class="diag-box">
-        <p><strong>Status do sistema:</strong> <span class="erro">FUNCIONANDO</span></p>
+        <p><strong>Status do sistema:</strong> <span class="ok">FUNCIONANDO</span></p>
         <p><strong>Display:</strong> <span class="ok">OK</span></p>
         <p><strong>Backlight:</strong> <span class="ok">OK</span></p>
         <p><strong>Leitura de RPM:</strong> <span class="ok">OK</span></p>
         <p><strong>Leitura de temperatura:</strong> <span class="ok">OK</span></p>
-        <p><strong>Leitura de combustível:</strong> <span class="ok">OK</span></p>
+        <p><strong>Leitura de combustível:</strong> <span class="erro">OK</span></p>
         <p><strong>Comunicação com sensores:</strong> <span class="ok">OK</span></p>
       </div>
 
